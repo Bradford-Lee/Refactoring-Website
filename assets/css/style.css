@@ -1,0 +1,129 @@
+/*This is a CSS file for the Horiseon html doctype*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+} /*styling attributes applied to the whole page*/
+
+body {
+    background-color: #d9dcd6;
+}/*styling attributes applied to the body portion*/
+
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}/*styling attributes applied to the header portion*/
+
+h1 {
+    display: inline-block;
+    font-size: 48px;
+}/*styling attributes applied to the h1 element*/
+
+.seo {
+    color: #d9dcd6;
+}/*styling attributes applied to the .seo element*/
+
+header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}/*styling attributes applied to the header div element*/
+
+li {
+    display: inline-block;
+    margin-left: 25px;
+}/*styling attributes applied to the list elements*/
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}/*styling attributes applied to anchor elements*/
+
+p {
+    font-size: 16px;
+}/*styling attributes applied to paragraph elements*/
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}/*styling attributes applied to the figure photo*/
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}/*float image to the left*/
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}/*float image to the right*/
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}/*styling attributes applied to the content element*/
+
+.content img {
+    max-height: 200px;
+}/*styling attributes applied to the content image*/
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}/*styling attributes applied to the h2 element*/
+
+#search-engine-optimization, #online-reputation-management, #social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}/*grouped the ID styles into one element*/
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}/*styling attributes applied to the benefits element*/
+
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}/*styling attributes applied to the benefits img element*/
+
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}/*styling attributes applied to the h3 element*/
+
+#benefit-lead, #benefit-brand, #benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}/*grouped the ID styles into one element*/
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}/*styling attributes applied to the footer element*/
+
+h4 {
+    font-size: 20px;
+}/*styling attribute applied to the footer h4 element*/
