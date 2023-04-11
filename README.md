@@ -1,4 +1,4 @@
-# homework-01
+# Refactoring Website
 
 ## Description
 
@@ -11,7 +11,7 @@ Download the homework-01-challenge folder which contains the html, css, and imag
 
 ## Usage 
 
-Someone may use this website https://bradford-lee.github.io/homework-01/ to find more information on Horiseon. You may click on the text in the header to navigate to the respective sections on the page. See below screenshot example for reference.
+Someone may use this website https://bradford-lee.github.io/Refactoring-Website/ to find more information on Horiseon. You may click on the text in the header to navigate to the respective sections on the page. See below screenshot example for reference.
 
 ![screenshot](https://user-images.githubusercontent.com/127280322/226800979-f58cbf7f-b23b-4763-a738-968583d478dd.PNG)
 
